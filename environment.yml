@@ -1,0 +1,8 @@
+name: Tianli
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - pip:
+    - matplotlib
+    - ipywidgets
